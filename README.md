@@ -14,7 +14,7 @@ tarea
     mejor conocida como Angelique Boyer <br> es una actriz francesa<br> nacionalizada mexicana<br> con la capacidad histriónica de convertirse en la más malvada de las villanas y la más querida de las protagonistas de telenovelas, por igual. </p>
     <br>Con apenas cinco años, Angelique debutó en el mundo del modelaje, pero su formación profesional en el mundo del espectáculo comenzó formalmente a los ocho años de edad al ingresar al Centro de Educación Artística Infantil
     <hr color="pink" size="12px"> 
-</hr>
+
  <h3><u>nayeli jazmin vasquez lopez 6to administración</u></h3>
  <img src="thalia.jpg" alt="angeli" with="200" height="142"/>
  <p> Nombre de nacimiento: Ariadna Thalía Sodi Miranda<br>
